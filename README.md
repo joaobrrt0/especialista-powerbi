@@ -45,8 +45,4 @@ Os dados utilizados neste relatório incluem:
   - Marcelo Freitas: R$ 137.925,00
 
 
-## 🚀 Como Usar
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
