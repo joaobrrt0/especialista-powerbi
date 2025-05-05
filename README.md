@@ -44,10 +44,6 @@ Os dados utilizados neste relatório incluem:
   - Cláudio Lopes: R$ 178.575,00
   - Marcelo Freitas: R$ 137.925,00
 
-## 🧩 Ferramentas Utilizadas
-
-- **Microsoft Power BI Desktop (32 bits)**  
-  ⚠️ *Importante: A versão de 32 bits deixará de ser suportada após 31/07/2025. Recomenda-se atualizar para a versão de 64 bits.*
 
 ## 🚀 Como Usar
 
